@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="address">Address</string>
+    <string name="ig">Instagram</string>
+    <string name="email">Email</string>
+    <string name="fav">Favorite</string>
+    <string name="about">about</string>
+    <string name="zero">Kosong</string>
+    <string name="find">Cari</string>
+    <string name="back">Back</string>
+    <string name="main">Main</string>
+    <string name="toFav">To Favorite</string>
+    <string name="del_fav">Delete From Favorite Page</string>
+    <string name="mainMenu">Main</string>
+    <string name="no_contact">Oops, there\'s nothing here!</string>
+    <string name="myEmail">ivansimbolon99@gmail.com</string>
+    <string name="myNicname">Ivan</string>
+    <string name="myPN">1234567890</string>
+    <string name="profile">Profile</string>
+    <string name="pp">profile Picture</string>
+    <string name="phone">Phone</string>
+    <string name="sosmed">Follow me on social media</string>
+    <string name="twt">Twitter</string>
+    <string name="linkedin">LinkedIn</string>
+
+</resources>
